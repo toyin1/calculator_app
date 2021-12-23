@@ -7,7 +7,7 @@ class CalculatorButton extends StatelessWidget {
   final int textColor;
   final double textSize;
   final Function callback;
-  const CalculatorButton({required this.text,
+  cgit push -u origin masteronst CalculatorButton({required this.text,
     required this.fillColor,
     required this.textColor,
     required this.textSize,
